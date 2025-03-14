@@ -1,0 +1,74 @@
+target	source	value
+c-di-GMP	Proteobacteria	380
+AHLs	Proteobacteria	337
+DSF	Proteobacteria	161
+c-di-GMP	Firmicutes	130
+AHLs	Actinobacteria	114
+AI-2	Proteobacteria	108
+AI-2	Firmicutes	99
+AHLs	Firmicutes	95
+AHLs	Bacteroidetes	83
+c-di-GMP	Actinobacteria	74
+AI-2	Actinobacteria	51
+Bdellovibrio	AHLs	30
+Candidatus Accumulibacter	AHLs	30
+Candidatus Microthrix	AHLs	30
+Ferruginibacter	AHLs	30
+Haliangium	AHLs	30
+Nitrosomonas	AHLs	30
+Pseudomonas	AHLs	30
+Sandaracinus	AHLs	30
+Arcobacter	c-di-GMP	30
+Bdellovibrio	c-di-GMP	30
+Candidatus Accumulibacter	c-di-GMP	30
+Candidatus Microthrix	c-di-GMP	30
+Extensimonas	c-di-GMP	30
+Ferruginibacter	c-di-GMP	30
+Haliangium	c-di-GMP	30
+Nitrosomonas	c-di-GMP	30
+Pseudomonas	c-di-GMP	30
+Sandaracinus	c-di-GMP	30
+Arcobacter	AI-2	30
+Pseudomonas	AI-2	30
+Bdellovibrio	DSF	30
+Candidatus Accumulibacter	DSF	30
+Candidatus Microthrix	DSF	30
+Ferruginibacter	DSF	30
+Pseudomonas	DSF	30
+Bdellovibrio	AHKs	30
+Pseudomonas	AHKs	30
+Pseudomonas	PQS	30
+c-di-GMP	Bacteroidetes	28
+DSF	Actinobacteria	26
+AHKs	Bacteroidetes	26
+DSF	Bacteroidetes	24
+AHKs	Firmicutes	24
+DSF	Firmicutes	23
+AI-2	Bacteroidetes	20
+AHLs	Chloroflexi	14
+c-di-GMP	Planctomycetes	13
+c-di-GMP	Chloroflexi	12
+AHLs	Acidobacteria	9
+c-di-GMP	Acidobacteria	9
+AHLs	Planctomycetes	8
+AHLs	Verrucomicrobia	7
+c-di-GMP	Spirochaetae	7
+PQS	Proteobacteria	7
+DSF	Planctomycetes	6
+AHLs	Spirochaetae	5
+AI-2	Planctomycetes	5
+c-di-GMP	Verrucomicrobia	4
+AI-2	Chloroflexi	4
+AI-2	Spirochaetae	4
+AHLs	Nitrospirae	3
+c-di-GMP	Nitrospirae	3
+DSF	Chloroflexi	3
+AI-2	Verrucomicrobia	2
+DSF	Nitrospirae	2
+PQS	Actinobacteria	2
+AI-2	Nitrospirae	1
+DSF	Acidobacteria	1
+DSF	Spirochaetae	1
+DSF	Verrucomicrobia	1
+AHKs	Proteobacteria	1
+AHKs	Actinobacteria	1

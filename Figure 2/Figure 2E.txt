@@ -1,0 +1,4 @@
+	AHLs	DSF	AI-2
+Synthesis	2	21	50
+Accept	139	15	18
+Complete	36	3	19
